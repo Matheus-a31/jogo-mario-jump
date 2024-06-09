@@ -9,5 +9,5 @@ linguagem de programação: JavaScript
 
 <h2>Vídeo de funcionamento do jogo: </h2>
 
-<img src = https://github.com/Matheus-a31/jogo-mario-jump/assets/153769826/23195fc1-8c6b-47e4-a15d-701e780e1fc4 height="500px">
+<img src = "https://github.com/Matheus-a31/jogo-mario-jump/assets/153769826/23195fc1-8c6b-47e4-a15d-701e780e1fc4" height="500px" style="text-align: center;">
 
